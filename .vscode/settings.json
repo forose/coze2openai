@@ -1,0 +1,11 @@
+{
+    "marscode.chatLanguage": "cn",
+    "marscode.enableCodelens": {
+        "enableInlineDocumentation": true,
+        "enableInlineUnitTest": false,
+        "enableInlineExplain": true
+    },
+    "marscode.codeCompletionPro": {
+        "enableCodeCompletionPro": true
+    }
+}

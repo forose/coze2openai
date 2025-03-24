@@ -1,11 +1,10 @@
 {
-  "name": "coze2openai",
+  "name": "wo2api",
   "version": "1.0.0",
-  "description": "turn coze api into openai",
+  "description": "turn wo cloudinto openai api",
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
   "keywords": [],
